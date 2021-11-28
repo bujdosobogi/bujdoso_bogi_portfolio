@@ -1,0 +1,62 @@
+body{
+	background-color: #FFFAF0;
+	margin: 0;
+
+}
+div{
+	font-family: "Courier New";
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	font-size: 17px;
+	text-align: center;
+}
+
+.link {
+	background-color: #cc998d;
+}
+
+.gomb a{
+	color: #fffaf0;
+	text-decoration: none;
+	font-size: 26px;
+
+}
+.gomb a:hover{
+	color: #FDF5E6;
+	font-weight: bold;
+	text-decoration: ;
+}
+
+.dok img{
+	max-width: 30%;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 10px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	box-sizing: border-box;
+ 	border: 5px solid beige;
+  	border-radius: 4px;
+}
+
+.forrasok{
+	background-color:#cc998d ;
+}
+
+p{
+	line-height: 1.6;
+}
+
+i{
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	font-weight: bold;
+}

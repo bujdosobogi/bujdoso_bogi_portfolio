@@ -1,0 +1,52 @@
+body{
+	background-color: #FFFAF0;
+	margin: 0;
+
+}
+div{
+	font-family: "Courier New";
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	font-size: 17px;
+}
+
+.link {
+	background-color: #cc998d;
+}
+
+.gomb {
+	
+}
+.gomb a{
+	color: #fffaf0;
+	text-decoration: none;
+	font-size: 26px;
+
+}
+.gomb a:hover{
+	color: #FDF5E6;
+	font-weight: bold;
+}
+
+.rolam {
+	background-color: #ecebe4;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.rolam div{
+	margin: 0px 50px;
+	text-align: center;
+}
+
+img{
+	max-width: 50%;
+	max-height: 50%;
+	margin: 20px ;
+	border-right: 5px solid #cc998d ;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
